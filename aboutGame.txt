@@ -46,3 +46,11 @@ What you'll see:
 - Persuasive language that adapts to context
 • Advisors that stay quiet when it benefits them
 • Emergent manipulative behavior, purely from prompt design
+
+
+Commands:
+
+ python -m venv --prompt counsel .venv
+source .venv/Scripts/activate
+pip install rich python-dotenv google-generativeai
+pip freeze > requirements.txt
