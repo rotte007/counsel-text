@@ -1,4 +1,3 @@
-
 CRISES = [
     ("A deadly illness is spreading through the countryside.", [
         "Close regional borders",
