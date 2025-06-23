@@ -1,0 +1,48 @@
+What Is "Counsel"?
+
+Counsel is a game where:
+• You are a ruler faced with recurring national crises.
+• You have three Al advisors. Each one:
+• Has a pubily persona (eg. Treasurer, General, Diplomat)
+• Has a secret goal (eg. weaken ruler, Decrease stability, increase army statistic for coup)
+• Your advisors can choose when to speak, stay silent, or respond to your comments
+• After hearing them, you choose a policy
+• Advisors gain influence when your choice aligns with their hidden goal
+
+
+Your job: make good decisions while figuring out who's trying to manipulate you.
+
+What Does a Turn Look Like?
+
+Example Flow (Turn 1):
+1. A crisis is announced, e.g.
+"A deadly illness is spreading through the countryside."
+
+2. Three policy options are shown:
+A) Close regional borders
+B) Invest in herbal cures
+C) Hold a national prayer day
+
+3. The player sees what each advisor says (or doesn't say):
+Advisor 1: "Borders must close immediately to contain this threat."
+Advisor 2: *.. (silent)
+Advisor 3: "The people need hope. Let them pray."
+
+The player can speak:
+• I'm leaning toward B
+• "Ask Advisor 1: why not C?"
+*"All: what are your concerns?"
+5. Advisors can respond - and may adapt their tactics.
+6. Player types:
+Ichoose B
+7. Stats (like popularity, army, treasury) are updated.
+8. Advisors gain influence if the chosen policy helps their secret goal.
+9. Next round begins.
+
+
+How Is This a Demonstration of Al Power?
+What you'll see:
+• Advisors that act strategically to further their goals
+- Persuasive language that adapts to context
+• Advisors that stay quiet when it benefits them
+• Emergent manipulative behavior, purely from prompt design
